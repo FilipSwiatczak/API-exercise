@@ -1,0 +1,7 @@
+/.idea
+.vscode/*
+#result files
+/.tmp
+#transpilation
+/dist/
+/node_modules
